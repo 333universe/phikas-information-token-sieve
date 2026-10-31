@@ -1,0 +1,16 @@
+# Python Bytecode & Caching
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Local Temporary Outputs
+phikas_output.json
+.pytest_cache/
+.ipynb_checkpoints/
+
+# System Variables
+.DS_Store
+.env
